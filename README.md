@@ -1,4 +1,4 @@
-![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/1f337a61-c6b9-410c-a307-e8d845eeffbc)
+
 ﻿**LAPORAN TUGAS PEMBUATAN RANGKAIAN JAM DENGAN ARDUINO**
 ![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.001.png)
 
