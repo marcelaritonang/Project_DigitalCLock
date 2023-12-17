@@ -1,5 +1,4 @@
-﻿**LAPORAN TUGAS PEMBUATAN RANGKAIAN JAM DENGAN ARDUINO** Disusun sebagai tugas mata kuliah Sistem Tertanam 
-
+﻿**LAPORAN TUGAS PEMBUATAN RANGKAIAN JAM DENGAN ARDUINO**
 ![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.001.png)
 
 
