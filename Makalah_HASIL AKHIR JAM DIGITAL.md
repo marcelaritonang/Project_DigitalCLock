@@ -2,15 +2,10 @@
 
 ![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.001.png)
 
-**Dosen : Pak Eko Pramunanto, S.T,M.T.** 
 
 Disusun oleh:             **Rianco Marcellino Andreas 5024211061** 
 
-**DEPARTEMEN TEKNIK KOMPUTER** 
 
-**FAKULTAS TEKNOLOGI ELEKTRO DAN INFORMATIKA CERDAS INSTITUT TEKNOLOGI SEPULUH NOPEMBER** 
-
-**2023** 
 
 1. **GAMBARAN UMUM SISTEM** 
 
