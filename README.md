@@ -1,4 +1,4 @@
-
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/1f337a61-c6b9-410c-a307-e8d845eeffbc)
 ﻿**LAPORAN TUGAS PEMBUATAN RANGKAIAN JAM DENGAN ARDUINO**
 ![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.001.png)
 
@@ -6,6 +6,8 @@
 Disusun oleh:             **Rianco Marcellino Andreas 5024211061** 
 
 
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/3fa1d77f-c491-4bc8-91cd-436d2b161137)
+![Uploading image.png…]()
 
 1. **GAMBARAN UMUM SISTEM** 
 
@@ -362,14 +364,20 @@ Arduino Nano based boards (no date) Generic Arduino Nano boards. Available at: [
 
 7. **LAMPIRAN** 
 1. **Dokumentasi** 
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/619edab1-28dc-4c23-ba2e-d5235ccdaea3)
 
 ![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.013.jpeg)
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/63e5ce2c-dbcf-4532-8ba2-f8961dbe54f5)
 
 ![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.014.png)
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/9b3ecec8-543d-47d7-906f-5df38d13b0d6)
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/75db1c45-7a67-405c-928a-9a85bb93101f)
+
 
 2. **Program** 
 
 **FontGW.h :**  
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/f2be4438-d35a-4531-96c1-b2640fa7518c)
 
 **MD\_MAX72XX::fontType\_t newFont[] PROGMEM = {3, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 64, 96, 2, 16, 16, 2, 96, 96, 0, 3, 127, 65, 127, 3, 66, 127, 64, 4, 113, 73, 73, 70, 3, 73, 73, 127, 3, 12, 10, 127, 3, 79, 73, 121, 3, 127, 73, 121, 3, 113, 9, 7, 3, 127, 73, 127, 3, 79, 73, 127, 1, 36, 2, 64, 36, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 126, 18, 126, 3, 126, 82, 60, 3, 60, 66, 66, 3, 126, 66, 60, 3, 126, 82, 82, 3, 126, 18, 18, 3, 126, 82, 118, 3, 126, 16, 126, 3, 66, 126, 66, 3, 66, 66, 62, 3, 126, 16, 110, 3, 126, 64, 64, 3, 126, 4, 126, 3, 126, 2, 126, 3, 126, 66, 126, 3, 126, 10, 14, 4, 62, 34, 62, 64, 3, 126, 26, 110, 3, 78, 82, 114, 3, 2, 126, 2, 3, 126, 64, 126, 3, 62, 64, 62, 5, 62, 64, 62, 64, 62, 3, 102, 24, 102, 8, 14, 120, 14, 0, 0, 0, 0, 0, 8, 114, 74, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 116, 84, 124, 3, 124, 80, 112, 3, 124, 68, 68, 3, 112, 80, 126, 3, 124, 84, 92, 3, 124, 20, 20, 3, 88, 84, 124, 3, 126, 16, 112, 1, 116, 2, 64, 52, 3, 124, 32, 80, 1, 124, 3, 124, 8, 124, 3, 124, 4, 124, 3, 124, 68, 124, 3, 124, 20, 28, 3, 28, 20, 124, 3, 120, 4, 4, 3, 92, 84, 116, 3, 8, 124, 72, 3, 124, 64, 124, 3, 56, 64, 56, 5, 60, 64, 32, 64, 60, 4, 108, 16, 16, 108, 3, 92, 80, 60, 3, 100, 84, 76, 0};![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.015.png)** ;
 
