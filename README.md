@@ -8,7 +8,20 @@ Disusun oleh:             **Rianco Marcellino Andreas 5024211061**
 
 ![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/3fa1d77f-c491-4bc8-91cd-436d2b161137)
 ![Uploading image.png…]()
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/619edab1-28dc-4c23-ba2e-d5235ccdaea3)
 
+![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.013.jpeg)
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/63e5ce2c-dbcf-4532-8ba2-f8961dbe54f5)
+
+![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.014.png)
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/9b3ecec8-543d-47d7-906f-5df38d13b0d6)
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/75db1c45-7a67-405c-928a-9a85bb93101f)
+
+
+2. **Program** 
+
+**FontGW.h :**  
+![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/f2be4438-d35a-4531-96c1-b2640fa7518c)
 1. **GAMBARAN UMUM SISTEM** 
 
    Pada Sistem rangkaian terdiri dari Arduino sebagai otak utama, modul RTC (misalnya DS3231) untuk menyediakan waktu real-time yang akurat, sensor DHT22 untuk mengukur suhu dan kelembaban udara, serta modul tampilan dot matriks (seperti MAX7219) untuk menampilkan informasi waktu, suhu, dan kelembaban. RTC dan DHT22 dihubungkan ke mikrokontroler melalui pin SDA dan SCL untuk RTC, dan pin data untuk LM35. Tampilan dot matriks dihubungkan melalui data pin, jam, dan beban. Setelah inisialisasi, program mikrokontroler  membaca  waktu  dari  RTC,  mengambil  data  suhu  dan kelembaban dari LM35, dan menampilkan informasi tersebut secara terformat di  tampilan  dot  matriks.  Sumber  daya  diberikan  melalui  catu  daya  untuk mendukung operasi sistem secara keseluruhan. Dan ditambahkan 4 button yaitu button pertama untuk mengganti mode pada display, Button2 digunakan untuk adjust yang digunakan pada alarm untuk merubah dari jam ke menit, Button3 digunakan untuk Menambah nilai, Button4 Digunakan untuk mengurangi nilai. 
