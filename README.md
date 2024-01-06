@@ -1,9 +1,9 @@
 
-﻿**LAPORAN TUGAS PEMBUATAN RANGKAIAN JAM DENGAN ARDUINO**
+﻿**PEMBUATAN RANGKAIAN JAM DENGAN ARDUINO**
 ![](Aspose.Words.20da5dd7-5352-4a93-a825-49d44777c88d.001.png)
 
 
-Disusun oleh:             **Rianco Marcellino Andreas 5024211061** 
+Disusun oleh:             **Rianco Marcellino Andreas** 
 
 
 ![image](https://github.com/marcelaritonang/Jam_Digital_Project/assets/62584017/3fa1d77f-c491-4bc8-91cd-436d2b161137)
